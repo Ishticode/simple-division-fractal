@@ -9,3 +9,5 @@ Here is another with base 5 and 250 iterations
 ![base_5_250](https://user-images.githubusercontent.com/53497039/152775883-6932a22a-13cb-4d6c-8d3e-df808184b42b.png)
 
 It appears that it takes (base - 1) spikes on one level before it shoots higher or lower after.
+
+Calling it fractal in a broader sense - the potential to be self similar on any scale though it will usually be based on finite points.
