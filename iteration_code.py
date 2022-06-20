@@ -5,6 +5,7 @@ x = []
 base = 5
 iterations = 250
 
+#iter
 for i in range(1,iterations):
 
 	x.append(i)
